@@ -1,0 +1,87 @@
+[33mcommit 34496658263677dfd37aaca5b1352196ec60d563[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: manhquan1307 <vumanhquan1307@gmail.com>
+Date:   Mon Mar 18 11:14:29 2024 +0700
+
+    abc
+
+[1mdiff --git a/index.html b/index.html[m
+[1mnew file mode 100644[m
+[1mindex 0000000..a935b7f[m
+[1m--- /dev/null[m
+[1m+++ b/index.html[m
+[36m@@ -0,0 +1,74 @@[m
+[32m+[m[32m<!DOCTYPE html>[m
+[32m+[m[32m<html lang="en">[m
+[32m+[m[32m<head>[m
+[32m+[m[32m  <meta charset="UTF-8">[m
+[32m+[m[32m  <meta name="viewport" content="width=device-width, initial-scale=1.0">[m
+[32m+[m[32m  <title>PTIT</title>[m
+[32m+[m[32m  <link rel="stylesheet" href="styte.css">[m
+[32m+[m[32m  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">[m
+[32m+[m[32m</head>[m
+[32m+[m[32m<body>[m
+[32m+[m[32m  <a href="https://drive.google.com/drive/my-drive" target="_blank">[m[41m [m
+[32m+[m[32m    drive[m
+[32m+[m[32m  </a>[m
+[32m+[m
+[32m+[m[32m  <form action="" autocomplete="on" novalidate>[m
+[32m+[m[32m    <label for="fullName">Họ tên:</label>[m
+[32m+[m[32m    <br>[m
+[32m+[m[32m    <input type="text" id="fullName" name="full_name"/>[m
+[32m+[m[32m    <br>[m
+[32m+[m[32m    <label for="email">Email:</label>[m
+[32m+[m[32m    <br>[m
+[32m+[m[32m    <input type="text" id="email" name="email"/>[m
+[32m+[m[32m    <br>[m
+[32m+[m[32m    <br>[m
+[32m+[m[32m    <input type="submit" value="Gửi" />[m
+[32m+[m
+[32m+[m[32m    <form[m
+[32m+[m[32m      action="https://qldt.ptit.edu.vn/#/home"[m[41m [m
+[32m+[m[32m      target="_blank"[m[41m [m
+[32m+[m[32m      method="post"[m
+[32m+[m[32m      autocomplete="on">[m
+[32m+[m[32m      <button type="text">Quản lý đào tạo</button>[m
+[32m+[m[32m    </form>[m
+[32m+[m
+[32m+[m[32m    <label for="colors">Chọn màu sắc:</label>[m
+[32m+[m[32m    <select id="colors" name="color">[m
+[32m+[m[32m      <option value="yellow">Vàng</option>[m
+[32m+[m[32m      <option value="red">Đỏ</option>[m
+[32m+[m[32m    </select>[m
+[32m+[m
+[32m+[m[32m    <br>[m
+[32m+[m[32m    <label for="note" class="color-green">Ghi chú:</label>[m
+[32m+[m[32m    <textarea id="note" name="note"></textarea>[m
+[32m+[m
+[32m+[m[32m    <input type="time">[m
+[32m+[m[32m    <input type="file">[m
+[32m+[m
+[32m+[m
+[32m+[m[32m    <h1>Vũ Mạnh Quân</h1>[m
+[32m+[m[32m    <h2 id="ten" class=".color-green">Vũ Mạnh Quân</h2>[m
+[32m+[m[32m    <h3 id="a" class="text-2">Vũ Mạnh Quân</h3>[m
+[32m+[m[32m    <h4 class="text-1">Vũ Mạnh Quân</h4>[m
+[32m+[m
+[32m+[m[32m    <h2 style="color: brown;">Tiêu đề</h2>[m
+[32m+[m
+[32m+[m[32m    <div>[m
+[32m+[m[32m      <h1>Quản lý đào tạo</h1><br>[m
+[32m+[m[32m      <label for="email">Tài khoản:</label><br>[m
+[32m+[m[32m      <input type="email" id="email" name="email"><br>[m
+[32m+[m[32m      <label for="password">Mật khẩu:</label><br>[m
+[32m+[m[32m      <input type="password" id="password" name="password"><br>[m
+[32m+[m[32m      <input type="submit" value="gửi">[m
+[32m+[m[32m    </div>[m
+[32m+[m
+[32m+[m[32m    <p>[m
+[32m+[m[32m      <i class="fa-brands fa-facebook"></i>[m
+[32m+[m[32m      <a href="https://www.facebook.com/" target="_blank">[m
+[32m+[m[32m        trang cá nhân[m
+[32m+[m[32m      </a>[m
+[32m+[m[32m    </p>[m
+[32m+[m
+[32m+[m[41m    [m
+[32m+[m[32m</body>[m
+[32m+[m[32m</html>[m
+\ No newline at end of file[m

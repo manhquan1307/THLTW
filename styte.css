@@ -1,0 +1,37 @@
+h1 {
+    text-align: center;
+    color: red;
+}
+
+.color-green {
+    color: green;
+}
+
+.maudo{
+    color: pink;
+}
+
+#a {
+    color: aqua;
+}
+
+h1 {
+    color: aliceblue;
+    background: black;
+  }
+
+div {
+    display: block;
+}
+
+.text-1 {
+    text-align: right;
+    text-transform: uppercase;
+    font-style: normal;
+}
+
+.text-2 {
+    font-weight: 400;
+    font-size: 40px;
+}
+
